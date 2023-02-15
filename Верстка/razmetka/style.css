@@ -1,0 +1,30 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+h1{
+    font-size: 32pt;
+}
+.wrapper{
+    border: 1px solid black;
+    height: 1280px;
+    margin: 20 auto;
+}
+header, footer{
+    background-color: rgb(160, 210, 255);
+    height: 200px;
+    text-align: center;
+}
+header h1, footer h1{
+    padding-top: 70px;
+}
+aside{
+    width: 30%;
+    background-color: aquamarine;
+    float: left;
+    text-align: center;
+}
+main{
+    background-color: blue;
+    text-align: center;
+}
